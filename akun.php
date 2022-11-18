@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="dist/css/adminlte.min.css">
 </head>
 <!--
-`body` tag options:
+`body` tag option:
 
   Apply one or more of the following classes to to the body tag
   to get the desired effect
